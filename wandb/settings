@@ -1,0 +1,5 @@
+[default]
+entity = prophesier
+project = llava-med
+base_url = https://api.wandb.ai
+
