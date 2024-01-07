@@ -1,0 +1,451 @@
+Is there evidence of an aortic aneurysm?
+Is there airspace consolidation on the left side?
+Is this an axial plane?
+How is the patient oriented?
+Is there vascular pathology in this image?
+Is there cardiomyopathy?
+Are >12 ribs present in the image?
+does this represent adequate inspiratory effort?
+Is there a rib fracture?
+Is there evidence of any fractures of the ribs?
+Is there any intraparenchymal abnormalities in the lung fields?
+Is there evidence of any abnormalities of the lung parenchyma?
+Is there evidence of small bowel obstruction on this image?
+Is there small bowel thickening present?
+was the patient positioned appropriately 	without tilting?
+is the small bowel appropriately identified with GI contrast?
+Is there a small bowel obstruction?
+Are there hyper attenuating material along the aortic walls?
+are there calcifications present on the abdominal aorta?
+Does this patient have evidence of pneumoperitoneum?
+Is there evidence of air in the peritoneal cavity?
+Is the cardiac silhouette less than half the diameter of the diaphragm?
+Is the cardiac silhouette within normal size limits?
+Is there narrowing of the cardiac contour?
+is the cardiac silhouette small/stretched
+is there evidence of pulmonary edema?
+Is there enlargement of the pulmonary vasculature?
+Is the cardiac contour normal?
+Is the cardiac silhouette less than half the lateral diameter of the chest wall?
+Is there a left apical pneumothorax?
+Is the outline of visceral pleura visible in the upper left lung field?
+is there slight dilation of the right renal pelvis?
+Is there enlargement of the right renal pelvis?
+Has the midline of the mediastinum shifted?
+Is there a mediastinal shift?
+Is the left lung field more radioopaque than the right side?
+Is the left lung field more white?
+Is the liver normal?
+Is this a typical liver?
+Describe the lung abnormalities?
+What abnormalities are seen within the lungs?
+What is under the right hemidiaphragm?
+What is the abnormality by the right hemidiaphragm?
+Is this in the posterior anterior plane?
+How would you describe the spleen abnormality
+What is abnormal about the spleen?
+Is the image of the gastrointestinal system?
+Which plane is this image taken?
+Are there multiple or just 1 metastatic focus?
+How many lesions are in the spleen?
+What is abnormal about the pancreas?
+Why is the pancreas abnormal?
+What abnormalities are in the lung apices?
+What is seen in the lung apices?
+Are the lungs normal?
+Is the image study normal?
+How would you describe the abnormalities
+Are the lesions ring-enhancing?
+What lobe is the lesion located in?
+Where is the abnormality located?
+How would you describe the aortopulmonary window?
+What characteristic finding do you see in the aortopulmonary window?
+Which sign do you see in the aortopulmonary window in this image?
+Where is the diffuse pleural thickening?
+Which lung is abnormal?
+Is the mass calcified?
+Does this look like a healthy liver?
+Is the liver normal?
+Is this a normal x ray?
+Is the right hemidiaphragm normal?
+What kind of image is this?
+Is this in a coronal plane?
+Is the surrounding phlegmon normal?
+Is the fat surrounding the pancreas normal?
+Are lung markings present in the entire thoracic cavity?
+Is there a pneumothorax present?
+Is there more than one organ system present in the image?
+How many instances of intussusception are in the image?
+Is there more than one intussusception present?
+Which side is more clearly visualized?
+Which lung is clearer?
+Is the diaphragm clearly visualized on both sides of the thorax?
+Is the diaphragm obscured?
+Is the heart wider than more than half the width of the thorax?
+How wide is the heart compared to the thorax?
+Is there evidence of subdiaphragmatic free air on the left?
+Is the free air under the left hemidiaphragm pathologic?
+Is the gallbladder present?
+What is the dense mass visualized in the liver?
+Where is free air trapped subcutaneously in this image?
+Is there free air in the supraclavicular fossae?
+Where is the ascending colon?
+What structure lies directly posterior to the appendix in this image?
+Are the borders of the heart clearly visualized?
+Where is the subcutaneous air collection?
+Is there subcutaneous air present in the right neck?
+Is this image taken above the diaphragm?
+What is in the left apex?
+Is a pneumothorax present in the left apex?
+Where is the lesion located?
+Which side of the heart border is obscured?
+Where are the kidney?
+Are the kidneys present in this image?
+Is the colon more prominent on the patient's right or left side?
+Where is the colon most prominent from this view?
+Is the heart size in this image smaller or larger than if the image was taken AP?
+Is the liver visible in the image?
+Is this an axial image?
+What structures are visible in this image?
+What is this lucency amid densities in the right lung?
+Are the temporal bones fractured?
+Is there consolidation in the lungs?
+What type of image is this?
+What are these opacities anterior to the right kidney?
+Are the brain gyri atrophied?
+Is the anatomy of the brain gyri affected?
+What is the medium density close to the anterior abdominal wall?
+Is this an AP image?
+What is the plane of this image?
+Is this a CT image?
+What type of image is this?
+Is there leakage of blood?
+Is there herniation?
+What bright white structures form an X?
+What are the bright white structures, almost forming an X"?"
+Can you see the esophagus in this image?
+Is the esophagus visible?
+Is this supratentorial or infratentorial?
+Is this modality safe for pregnant women?
+Can fluids be highlighted with this modality?
+Are the kidneys normal?
+Do the kidneys appear to be normal?
+Are the lateral ventricles visible?
+Can the lateral ventricles be seen?
+What hypoattenuated tissue is between the abdominal wall and skin?
+What is the dark structure underneath the skin?
+Does this mass likely represent a neoplastic process?
+IS this a neoplastic process?
+Is the vertebrae fractured?
+Is there a verterbral fracture?
+Can you evaluate a mediastinum in the shown image?
+Is the mediastinum visualized?
+Where is the tip of the line?
+Where is the tip of the Port-a-Cath catheter located?
+Do you see hylar lymphadenopathy in this image?
+is there hylar lymphadenopathy?
+Is there a widened mediastinum?
+Is the mediastinum wider than normal?
+is the heart enlarged?
+Is there cardiomegaly?
+Is there fluid in the lung?
+Is this a pleural effusion
+Is mass effect present?
+Is there mass effect?
+How was this image taken
+is there a mass
+Is a mass present in this xray?
+Describe the pathology
+what is the pathology?
+What organ system is the pathology?
+is there brain edema
+Is the brain swollen?
+what is the location of the cavitary lesion
+Where is the cavitary lesion located?
+are there increased vascular markings
+Are the vascular markings increased?
+What plane is this film
+what is the location of the mass?
+Where is the mass located?
+The mass is found in which part of the pancreas?
+What type of MRI sequence is displayed in this image?
+From what structure is the large hypodense mass emanating from?
+What lobe of the brain is the lesion located in?
+Is this an MRI?
+Does this patient have a pneumothorax?
+In what plane was this image taken?
+Is this an MRI or a CT scan?
+Can the optic nerve be visualized in this MRI image?
+In which two ventricles can calcifications be seen on this CT scan?
+What part of the body is being imaged here?
+Does this patient have pneumomediastinum?
+What abnormality is seen on the left side of the frontal lobe?
+Is this a coronal view?
+Are these normal kidney findings?
+Diaphragm is elevated on which side?
+Which side of the diaphragm is elevated?
+Where does the L renal vein connect to
+Where does the L renal vein drain into?
+Does the lesion appear to be wedge-shaped?
+Is the lesion wedge-shaped?
+Is the lesion on the left or right side of the brain?
+What side of the brain is a lesion on?
+What plane is this?
+Where is there evidence of a pleural effusion?
+Where is the pleural effusion located?
+Is there an acute infarction?
+Is this consistent with an acute infarction?
+Is this a CT?
+Where are the acute infarcts?
+Where do you see acute infarcts?
+Is the trachea located normally?
+Is the trachea midline?
+Is this the axial plane?
+How would you measure the length of the kidneys?
+Is this a CT of the abdomen?
+What type of imaging modality is used to acquire the above image?
+The image is taken in what plane?
+What plane is the above image acquired in?
+What is the location of the lesion?
+Where is the lesion located?
+How large is the mass in the right upper quadrant?
+Size of the mass in the right upper quadrant?
+Is the patient a female or male?
+What is the biological sex of the patient?
+Is the heart enlarged?
+Is the heart abnormally large?
+Is this image showing the chest?
+What organ system is being imaged?
+The hemorrhage is adjacent to what structures?
+What structures are located near the hemorrhage shown?
+What major artery of the brain may be affected by the lesion seen in the above image?
+Which major artery of the brain is affected by this lesion?
+Evidence of hemorrhage in the kidneys?
+Is there any hemorrhage seen within the kidneys?
+Is this a T1 weighted MRI?
+Where are the brain lesions located?
+Which hemisphere of the brain are the lesions located in?
+In which brain area is the lesion located?
+Where is the lesion located?
+The tissue within the hyperattenuating ovoid mass adjacent to the ascending colon is similar in density to what tissue normally found?
+The tissue in the hyperattenuating ovoid mass on the patient's right is similar density wise to what tissue that is normally found?
+The lesion seen in the image above is isointense to what object that is normally found in the brain?
+The lesion is isointense to what object normally found in the brain?
+Is the heart enlarged?
+Is the heart abnormally large?
+The condition in which a patient has enlarged ventricles as seen in this image?
+What is the condition in which the ventricles are enlarged as seen in this image?
+What organ system is visualized in the above image?
+How was this image taken?
+What imaging modality is used?
+In which lobe do you see an abnormal mass in the above images?
+Where is the abnormal mass located with respect to the lungs?
+What imaging modality was used to take this image?
+Where is the abnormality?
+What abnormality is present?
+Is free air present in this image?
+Is there free air in the abdomen?
+Are the ventricles enlarged?
+Is the size of the ventricle abnormal?
+How is the patient positioned for this scan?
+What is the hypodensity in the liver?
+Is there a hypodense mass in the liver
+Is this patient male or female?
+What is the patient's gender?
+Is the trachea normal?
+Is the trachea midline?
+Is there a pneumothorax present?
+Is there free air in the thorax?
+What is located immediately inferior to the right hemidiaphragm?
+Can a mass in the pancreatic head cause a liver injury?
+Does the liver show an enhancing mass or lesion?
+Is there an enhancing lesion in the liver?
+What are the black areas at the top of the image?
+What does the least dense region represent
+What is the orientation of the patient?
+Is this a coronal section?
+Are there any skeletal joints in the CT?
+What skeletal joint is seen in this image?
+Can a patient with a metal implant get a CXR?
+Is the lesion on the left or right?
+What side is the lesion on?
+What are the hyperdensities on the periphery of the image?
+What are the hyperdense opacities located around the periphery?
+Are there skull fractures present?
+Is the skull fractured?
+Is there sign of a skull fracture?
+Is the skull fractured?
+What is better identified on a PA CXR vs a lateral CXR?
+Does this image show a pneumothorax?
+Is there a pneumothorax present?
+Are the hemidiaphragms flattened?
+Is the diaphragm flat on either side?
+Is there any abnormality in this image?
+Are there lesions in this image?
+Is this an MRI?
+Are there clearly defined cardiac borders in this image?
+Which plane is this image in?
+Name one organ that is captured by this image.
+What is wrong with the ventricles?
+What ventricular abnormalities are seen?
+Is there a localized mass?
+Is there a focal mass present?
+Is there air trapped in the body?
+Is there free air present?
+Are there pulmonary findings?
+Is there any abnormality in the lungs?
+Are there abnormal findings?
+Is anything not normal in the image?
+What is the condition?
+What is the pathology?
+In what plane was this image taken?
+Is the heart enlarged?
+Is cardiomegaly present?
+What are the bright specks in the gallbladder
+Are gallstones identifiable?
+Is air present in the bowels?
+Is there bowel gas?
+What two tributaries of blood vessels are impacted?
+Which blood vessels are affected?
+What organ is affected by pathology in this image?
+What structures are involved?
+Is there evidence of a pneumoperitoneum?
+Is there free air underneath the diaphragm?
+What organ system is shown?
+What structure is depicted?
+What pathology does the image represent
+What is the mass most likely?
+Are the borders of the mass well-defined ?
+Are the borders of the mass well-defined and is the interior of the mass homogenous?
+is the interior of the mass homogenous?
+Is the mass well circumscribed?
+Is the mass homogenous?
+Is the mass well circumscribed and homogenous?
+How was the image taken?
+What plane was used in this image?
+What are the two humps" at the base on the image signifying?"
+Are liver findings normal?
+Does the liver look normal?
+Is there air outside the bowel walls?
+Is pneumoperitoneum evident?
+What organ system is visualized?
+Is the air under the diaphragm pathologic?
+Is there free air under the diaphragm?
+Is there biliary duct dilation?
+Which ventricle is the mass located in?
+Is this a normal liver?
+Is there contrast used?
+Is there contrast in the patient's arteries and veins?
+Is the lesion hyperdense?
+Is the air under the diaphragm pathologic?
+Is there free air under the diaphragm?
+What modality is used to take this image?
+Is the aorta size abnormal?
+Is the aorta dilated?
+Which lung lobe has the least opacities?
+Term for the enhancement of the luminal surface seen in the image?
+Is there contrast in the patient's small bowel?
+The hyperattenuating ovoid mass is lateral to what structure?
+What do the two small hyperintensities indicate?
+Is the abdominal aorta within normal size limits?
+Can the patient's encephalon be seen in this image?
+Are the clavicles fractured?
+Which kidney has fluid around it?
+Is pneumo intestinalis present?
+Is this image abnormal?
+Were both sides affected?
+What is on the anterior wall of the right chest?
+Is there hydronephrosis in the patient's kidneys?
+Are the kidney present?
+Is there an air-fluid level?
+Is there a chest tube placed?
+Is there evidence of pneumoperitoneum?
+Is this a contrast-enhanced CT?
+Are nodules present in both lungs?
+Where is the location of the mass?
+Are the structures in the pancreas cystic or solid?
+Is there an air-fluid level?
+Is there free air in the abdomen?
+How large is the mass?
+Are there EKG leads on this patient?
+Is this a normal image?
+Are the nodules well circumscribed?
+Is this a normal image?
+Is the appendix enlarged?
+What image plane is this?
+What modality was used?
+Is there air present under the diaphragm?
+Is this image normal or abnormal?
+What modality was used for this image?
+Where are the signals most intense?
+Where are the infarcts?
+Is there a shift of midline structures?
+Is there fat stranding?
+The hypointense nature of the hemorrhage signifies what in terms of the timeline?
+Is the spleen present?
+Is the left kidney abnormal?
+Is there any adenopathy?
+Which side of the lungs are hyperinflated?
+Are the bronchial airways enlarged?
+What type of MRI modality is used?
+Is this a normal image?
+Is there cortical atrophy?
+Are the hepatic lesions ring enhancing?
+What image modality is used?
+Are the costophrenic angles preserved?
+Is the right diaphragm visualized?
+Is the abdominal aorta enlarged?
+Is there hilar lymphadenopathy?
+Is the gastric bubble shown on the left or right side of the patient?
+Where is the opacity located?
+Is there evidence of rib fracture?
+How big is the mass in cm?
+Are pleural opacities located on the left, right, or both sides of the lung?
+Are the pleural opacities bilateral or unilateral?
+Is the appendix non-enlarged?
+Is the appendix normal in size?
+Is this patient in a supine position?
+Is the patient lying supine?
+What is the location of the three circular opacities?
+Where are the three circular opacities located?
+Is this an axial view of the brain?
+Does the liver contain at least one hypodensity?
+Is there a hypodensity located in the liver?
+Was this image taken by x-ray?
+How is the artifact in this image categorized?
+What type of artifact is shown in this image?
+Is this an axial or saggital view of the brain?
+What cross section of the brain is this image?
+Did this patient receive IV contrast?
+Was this patient given IV contrast?
+Is this a T1 weighted, T2 weighted, or FLAIR image?
+What is the imaging modality?
+What are the hyperdense lesions noted at the edges of the aorta?
+What are the hyperintensities surrounding the aorta?
+Are the lungs hyperinflated?
+Is there hypoinflation or hyperinflation of the lung
+Does the left hemidiaphragm appear flat?
+Is there flattening of the left hemidiaphragm?
+Are the small bubbles of air seen normal or abnormal?
+The small bubbles of air seen in the lumen are normal or abnormal?
+What is the sequence of this MRI?
+What pathology is seen in this image?
+What is wrong with the patient's scan?
+Are the sulci abnormal?
+Do the sulci look abnormal in this image?
+The image probably had what incidental finding?
+What was probably found incidentally on this image?
+Is this a CT or an MRI?
+Was a CT or MRI used to take the above image?
+This image is taken in what plane?
+Are the ventricles an abnormal size?
+Is the size of the ventricles abnormal?
+Is there any tracheal deviation present?
+Is the trachea deviated in this image?
+This image is consistent with what condition?
+What condition does the patient have?
+Where Is there obstruction present?
+Where is obstruction present, if any?
+Is the GI tract is highlighted by contrast?
+Do you see cardiomegaly?
+Is there cardiomegaly present?

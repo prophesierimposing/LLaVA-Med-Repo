@@ -49,21 +49,21 @@ def main(args):
             if len(line['question_type'].split(', ')) > 1:
                 line['question_type']='OTHER'
 
-        # organ_info="This is an medical image of the {}. ".format(line['image_organ'])
         retrieve_info="<triples>"
         image_info="<image>\n"
         if line['answer_type']=="CLOSED":
             prompt=" Please choose from the following two options: [yes, no]."
         else:
             prompt=""
-        # ques=image_info+organ_info+prompt+line['question']
         ques=line['question']+prompt
+
 
         new_data.append({
             'id': str(cnt),
             'image_organ': line['image_organ'],
             'answer_type': line['answer_type'],
             'question_type': line['question_type'],
+            'original_question': line['question'],
             'image': line['image_name'],
             'conversations': [
                 {
@@ -83,8 +83,8 @@ def main(args):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--data_path', type=str, default='/home/coder/projects/Med-VQA/data_PATH/testset.json',choices=['/home/coder/projects/Med-VQA/data_PATH/testset.json','/home/coder/projects/SystemDataset/data_RAD/testset.json','/home/coder/projects/Med-VQA/data_SLAKE/train_test/testset.json'])
-    parser.add_argument('--output_path', type=str, default='llava-med_path.json')
+    parser.add_argument('--data_path', type=str, default='/home/coder/projects/SystemDataset/data_RAD/testset.json',choices=['/home/coder/projects/Med-VQA/data_PATH/testset.json','/home/coder/projects/SystemDataset/data_RAD/testset.json','/home/coder/projects/Med-VQA/data_SLAKE/train_test/testset.json'])
+    parser.add_argument('--output_path', type=str, default='szx_rad_path.json')
     parser.add_argument("--num-chunks", type=int, default=1)
     parser.add_argument("--chunk-idx", type=int, default=0)
     args = parser.parse_args()

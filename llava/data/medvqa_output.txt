@@ -1,0 +1,500 @@
+what modality is shown?
+was the mri taken with contrast?
+what type of contrast did this patient have?
+what imaging method was used?
+what modality is shown?
+what is the mr weighting in this image?
+is this a ct scan?
+what type of contrast did this patient have?
+was iv contrast given to the patient?
+was the ct scan taken with contrast?
+what imaging modality was used to take this image?
+was the ct scan taken with contrast?
+is this a noncontrast mri?
+what type of image modality is seen?
+is this a ct scan?
+is this image modality t1, t2, or flair?
+what type of imaging is this?
+what imaging modality was used to take this image?
+what imaging modality was used to take this image?
+was the ct scan taken with contrast?
+was gi contrast given to the patient?
+was the ct scan taken with contrast?
+is this a noncontrast mri?
+is this a t1 weighted, t2 weighted, or flair image?
+is this an mri image?
+is this a ct scan?
+is this a noncontrast ct?
+what modality is shown?
+which image modality is this?
+what imaging modality was used to take this image?
+what was this image taken with?
+is this a contrast or noncontrast ct?
+is 	this a t1 weighted image?
+what imaging modality is used to acquire this picture?
+is this image modality t1, t2, or flair?
+what type of imaging modality is shown?
+was the mri taken with contrast?
+what type of imaging modality is shown?
+is this a t2 weighted image?
+is this an mri image?
+is this a noncontrast ct?
+was gi contrast given to the patient?
+what imaging modality is used?
+what imaging modality is used to acquire this picture?
+is this a noncontrast ct?
+was the ct scan taken with contrast?
+was the ct scan taken with contrast?
+what type of imaging does this represent?
+what type of contrast did this patient have?
+is this a noncontrast mri?
+was the ct scan taken with contrast?
+is this a contrast or noncontrast ct?
+how was the image taken?
+is this a contrast or noncontrast ct?
+what kind of scan is this?
+what type of imaging modality is seen in this image?
+is this a noncontrast ct?
+what type of image modality is seen?
+is this a noncontrast mri?
+was iv contrast given to the patient?
+what type of image modality is seen?
+what modality was used to take this image?
+is this a ct scan?
+what imaging modality was used to take this image?
+is this a contrast or noncontrast mri?
+was the ct scan taken with contrast?
+is this a contrast or noncontrast ct?
+what imaging modality was used to take this image?
+how was this image taken?
+is this a t2 weighted image?
+what imaging modality was used to take this image?
+is this a contrast or noncontrast ct?
+how was this image taken?
+what imaging modality was used to take this image?
+what imaging modality was used to take this image?
+is this a ct scan?
+what type of imaging modality is seen in this image?
+is this a contrast or noncontrast ct?
+what imaging modality was used to take this image?
+is this a noncontrast mri?
+what imaging modality was used to take this image?
+was gi contrast given to the patient?
+is this a contrast or noncontrast mri?
+with what modality is this image taken?
+what type of imaging modality is shown?
+what type of image modality is this?
+is this an mri image?
+was gi contrast given to the patient?
+which image modality is this?
+what type of image modality is this?
+is this a noncontrast ct?
+is this a t2 weighted image?
+what imaging modality is used to acquire this picture?
+was the mri taken with contrast?
+what type of imaging modality is shown?
+is this a t2 weighted image?
+what type of imaging modality is used to acquire the image?
+what imaging modality was used to take this image?
+what imaging method was used?
+is this a noncontrast mri?
+is this a t1 weighted image?
+is this a t1 weighted, t2 weighted, or flair image?
+is this a t1 weighted, t2 weighted, or flair image?
+is this a ct scan?
+what modality is shown?
+what type of imaging modality is shown?
+was the ct scan taken with contrast?
+is this a t2 weighted image?
+is this a ct scan?
+what imaging modality was used to take this image?
+is this a noncontrast ct?
+was gi contrast given to the patient?
+what imaging modality was used to take this image?
+what is the mr weighting in this image?
+is this a noncontrast mri?
+what type of imaging modality is shown?
+is this a t1 weighted, t2 weighted, or flair image?
+is this a contrast or noncontrast ct?
+what imaging modality was used to take this image?
+what kind of scan is this?
+is this a ct scan?
+is this an mri image?
+is 	this a t1 weighted image?
+what type of imaging modality is shown?
+is this an mri image?
+what is the plane of the ct scan?
+in what plane is this ct scan?
+what imaging plane is depicted here?
+what is the plane of the ct scan?
+in what plane is this mri captured?
+which plane is the image taken?
+what image plane is this?
+which plane is the image shown in?
+in what plane was this image taken?
+in what plane is this ct scan?
+what imaging plane is depicted here?
+what plane was used in this ct scan?
+in what plane is this image taken?
+in which plane is the mri displayed?
+which plane is this image in?
+what plane is this?
+what plane is the image acquired in?
+what plane is this mri in?
+what plane was used in this ct scan?
+in what plane is this mri?
+which plane is this image taken?
+what plane is this?
+in what plane is this image taken?
+in what plane was this image taken?
+in what plane is this image oriented?
+what plane is this film
+in what plane is this x-ray?
+which plane is this mri taken in?
+in what plane is this image oriented?
+what is the plane of this x-ray?
+which plane is the image taken?
+in what plane is this image taken?
+in what plane is this ct scan?
+which plane is this image in?
+which plane is this image in?
+what is the plane of the image?
+what plane was used?
+in what plane is this image taken?
+what plane is this?
+what image plane is this?
+what imaging plane is depicted here?
+in what plane is this angiogram taken?
+what is the plane?
+what is the plane of the image?
+what plane was used?
+what plane is the image acquired in?
+in which plane is the mri displayed?
+what image plane is this?
+what is the plane of the image?
+what plane is demonstrated?
+in what plane is this mri taken?
+what plane is this ct scan in?
+what is the plane?
+what plane is demonstrated?
+in what plane is this image taken?
+in which plane is the x-ray displayed?
+what imaging plane is depicted here?
+in what plane is this image taken?
+what plane was used in this ct scan?
+in what plane is this ultrasound?
+what plane is this?
+what plane is the image acquired in?
+what is the plane of the ct scan?
+in what plane was this image taken?
+which plane is this image taken?
+in what plane is this image oriented?
+what imaging plane is depicted here?
+what plane is seen?
+in what plane is this ct scan?
+which plane is the image shown in?
+in what plane is this mri?
+what plane was used?
+what is the plane of this ct scan?
+what is the plane of this mri?
+in which plane is the x-ray displayed?
+what is the plane?
+in what plane is this x-ray taken?
+what plane is this film
+in what plane is this image taken?
+what plane is the image acquired in?
+in what plane is this ct scan?
+which plane is the image shown in?
+what plane is the image acquired in?
+which plane is the image taken?
+what plane was used in this ct scan?
+what is the plane of the image?
+in what plane is this image taken?
+in which plane is the ct scan displayed?
+in what plane is this mri?
+in what plane is this ultrasound taken?
+in what plane was this image taken?
+what plane is this ct scan in?
+in what plane is this ct scan captured?
+what plane was used in this mri?
+which plane is this image in?
+what image plane is this?
+what is the plane of the x-ray?
+which plane is this image in?
+in what plane is this ct scan taken?
+which plane is the image shown in?
+in what plane is this mri taken?
+in what plane was this image taken?
+what plane was used in this ct scan?
+what plane was used in this x-ray?
+what is the plane of the x-ray?
+what plane is seen?
+in what plane is this x-ray taken?
+what is the plane?
+in which plane is the x-ray displayed?
+in what plane is this image taken?
+in what plane was this image taken?
+what plane is this?
+what plane was used in this mri?
+what plane was used in this ct scan?
+which plane is this mri taken in?
+what plane is this mri in?
+what plane is seen?
+in what plane is this ct scan?
+what is the plane?
+in what plane is this ct scan?
+what is the plane of this mri?
+which plane is this mri taken in?
+which plane is the image taken?
+which plane is this x-ray taken in?
+in what plane is this mammograph?
+what organ system is displayed in this ct scan?
+what is the organ principally shown in this mri?
+which organ is captured by this mri?
+what organ system is evaluated primarily?
+what organ system is evaluated primarily?
+what is one organ system seen in this image?
+what organ system is being imaged?
+what organ system is primarily present in this image?
+which organ system is imaged?
+what organ system is being imaged?
+which organ system is shown in the mri?
+what organ system is evaluated primarily?
+what organ system is evaluated primarily?
+what organ is this image of?
+what organ system is shown in the image?
+what organ system is primarily present in this image?
+what organ system is imaged?
+what organ system is imaged?
+what organ system is primarily present in this image?
+what part of the body does this x-ray show?
+what part of the body does this ct scan show?
+what part of the body is being imaged?
+what organ system is shown in this x-ray?
+what is the organ system in this image?
+which organ is captured by this ct scan?
+what organ system is imaged?
+what organ system is shown in the image?
+what organ system is pictured here?
+which organ system is imaged?
+what organ is this x-ray showing?
+what organ system is displayed in this mri?
+what organ systems can be evaluated with this mri?
+what organ system is evaluated primarily?
+what organ system is displayed in this x-ray?
+what organ system is visualized?
+what organ system is visualized?
+what organ system is visualized?
+what organ system is pictured here?
+what part of the body is being imaged?
+what organ system is evaluated primarily?
+what part of the body is being imaged here?
+the ultrasound shows what organ system?
+which organ system is imaged?
+which organ system is shown in the mri?
+what is the organ system in this image?
+what organ system is imaged?
+what organ system is imaged?
+which organ system is shown in the ct scan?
+which organ is captured by this ct scan?
+what organ system is pictured here?
+what organ is this mri showing?
+what organ system is primarily present in this image?
+what organ system is primarily present in this image?
+which organ system is shown in the ct scan?
+which organ system is shown in the ct scan?
+what organ system is shown in the image?
+what organ is this image of?
+what is the organ principally shown in this mri?
+what organ system is visualized?
+what organ system is shown in this mri?
+which organ system is shown in the ct scan?
+what part of the body is being imaged here?
+what organ system is being imaged?
+what organ is this image of?
+what is the organ system in this image?
+which organ is captured by this mri?
+what organ is this image showing?
+what organ system is primarily present in this image?
+what organ systems can be evaluated with this ct scan?
+what part of the body is being imaged?
+what organ system is being imaged?
+what organ systems can be evaluated with this mri?
+what organ system is evaluated primarily?
+what organ is this mri showing?
+what part of the body is being imaged here?
+what organ system is evaluated primarily?
+what organ system is pictured here?
+what organ system is primarily present in this image?
+what organ system is primarily present in this image?
+what organ is this image of?
+what part of the body is being imaged here?
+what organ system is pictured here?
+what organ system is pictured here?
+what organ system is primarily present in this image?
+what organ system is primarily present in this image?
+what organ system is imaged?
+which organ is captured by this mri?
+what organ system is pictured here?
+what organ system is shown in the image?
+the ct scan shows what organ system?
+what organ system is primarily present in this image?
+what organ system is primarily present in this image?
+what organ system is evaluated primarily?
+what organ system is visualized?
+what part of the body does this mri show?
+what organ system is pictured here?
+which organ is captured by this ultrasound?
+what organ systems can be evaluated with this x-ray?
+what part of the body is being imaged?
+which organ system is shown in the mri?
+what organ system is pictured here?
+what organ system is shown in the image?
+what part of the body is being imaged?
+what organ system is shown in the image?
+what organ system is visualized?
+what part of the body is being imaged here?
+what organ system is displayed in this ct scan?
+what organ system is being imaged?
+what organ system is being imaged?
+what organ system is visualized?
+what organ is this image of?
+which organ system is imaged?
+what organ system is imaged?
+what organ system is evaluated primarily?
+what organ system is displayed in this ct scan?
+what part of the body is being imaged?
+the mri shows what organ system?
+what organ is this image of?
+what organ system is shown in the image?
+what organ system is being imaged?
+what is the organ principally shown in this mri?
+what organ is this x-ray showing?
+which organ system is imaged?
+what part of the body is being imaged?
+what part of the body is being imaged?
+is there something wrong in the image?
+is this a normal ultrasound?
+does this image look normal?
+does this image look normal?
+is this image normal?
+is the ultrasound normal?
+is this a normal ct scan?
+is the ct scan normal?
+is this image normal?
+is there something wrong in the image?
+what is the primary abnormality in this image?
+what is abnormal in the ct scan?
+what is the primary abnormality in this image?
+what is abnormal in the ct scan?
+what is the primary abnormality in this image?
+what is most alarming about this ultrasound?
+what is most alarming about this gastrointestinal image?
+what is most alarming about this ct scan?
+what is most alarming about this x-ray?
+what abnormality is seen in the image?
+what is most alarming about this ct scan?
+what is most alarming about this ct scan?
+what is abnormal in the mri?
+what is most alarming about this ultrasound?
+what is most alarming about this ct scan?
+what is most alarming about this ct scan?
+what is most alarming about this mri?
+what abnormality is seen in the image?
+what abnormality is seen in the image?
+what is the primary abnormality in this image?
+what is abnormal in the ct scan?
+what is abnormal in the mri?
+what is the primary abnormality in this image?
+what is the primary abnormality in this image?
+what is most alarming about this ct scan?
+what is most alarming about this ct scan?
+what is abnormal in the ct scan?
+what is the primary abnormality in this image?
+what is abnormal in the mri?
+what is most alarming about this x-ray?
+what is most alarming about this ultrasound?
+what abnormality is seen in the image?
+what is the primary abnormality in this image?
+what is most alarming about this ct scan?
+what abnormality is seen in the image?
+what is the primary abnormality in this image?
+what is the primary abnormality in this image?
+what is abnormal in the x-ray?
+what is abnormal in the mri?
+what is most alarming about this gastrointestinal image?
+what abnormality is seen in the image?
+what is abnormal in the ct scan?
+what is abnormal in the ct scan?
+what abnormality is seen in the image?
+what is most alarming about this mri?
+what is the primary abnormality in this image?
+what is most alarming about this mri?
+what is abnormal in the mri?
+what is abnormal in the ct scan?
+what is the primary abnormality in this image?
+what abnormality is seen in the image?
+what is abnormal in the gastrointestinal image?
+what abnormality is seen in the image?
+what abnormality is seen in the image?
+what is most alarming about this ct scan?
+what is most alarming about this ct scan?
+what is abnormal in the ct scan?
+what is abnormal in the ct scan?
+what abnormality is seen in the image?
+what is most alarming about this ct scan?
+what is most alarming about this ct scan?
+what is abnormal in the ultrasound?
+what is abnormal in the gastrointestinal image?
+what is most alarming about this ct scan?
+what is abnormal in the gastrointestinal image?
+what is abnormal in the ct scan?
+what is the primary abnormality in this image?
+what abnormality is seen in the image?
+what is most alarming about this ct scan?
+what abnormality is seen in the image?
+what is most alarming about this mri?
+what is the primary abnormality in this image?
+what is most alarming about this mri?
+what is abnormal in the mri?
+what is abnormal in the ultrasound?
+what is the primary abnormality in this image?
+what is most alarming about this nuclear medicine image?
+what abnormality is seen in the image?
+what is abnormal in the mri?
+what is most alarming about this ct scan?
+what is most alarming about this mri?
+what is most alarming about this ct scan?
+what is the primary abnormality in this image?
+what is most alarming about this mri?
+what abnormality is seen in the image?
+what is the primary abnormality in this image?
+what is abnormal in the ct scan?
+what is abnormal in the mri?
+what is most alarming about this ct scan?
+what abnormality is seen in the image?
+what is most alarming about this angiogram?
+what abnormality is seen in the image?
+what abnormality is seen in the image?
+what is most alarming about this mri?
+what is abnormal in the ct scan?
+what is abnormal in the x-ray?
+what is abnormal in the mri?
+what abnormality is seen in the image?
+what is abnormal in the ct scan?
+what is abnormal in the mri?
+what is the primary abnormality in this image?
+is there an abnormality in the mri?
+what is the primary abnormality in this image?
+what abnormality is seen in the image?
+what is the primary abnormality in this image?
+what is most alarming about this mri?
+what is the primary abnormality in this image?
+what is abnormal in the mri?
+what is abnormal in the mri?
+what is the primary abnormality in this image?
+what is abnormal in the ct scan?
+what is most alarming about this mri?
+what is most alarming about this ct scan?
+what is the primary abnormality in this image?
+what is the primary abnormality in this image?
